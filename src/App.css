@@ -1,0 +1,35 @@
+:root {
+  margin: 0 auto;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  max-width: 800px;
+  text-align: center;
+  background-color: #D6CCC2;
+}
+
+body {
+  margin: 10% 2%;
+  padding: 5%;
+  border: #D5BDAF solid 1px;
+  border-radius: 5%;
+  background-color: #FFFFFF;
+}
+
+img {
+  max-width: 500px;
+}
+
+button {
+  background-color: #FFFFFF;
+  border-radius: 15px;
+  border: 1px #D5BDAF solid;
+  text-align: center;
+  padding: 1%;
+  margin: 2%;
+}
+
+button:hover {
+  background-color: #E3D5CA;
+  cursor: pointer;
+}
+
